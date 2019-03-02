@@ -1,0 +1,10 @@
+{
+  "name": "Electron Blockstack Login Demo",
+  "start_url": "http://localhost:9876",
+  "description": "Electron Blockstack Login demo app",
+  "icons": [{
+    "src": "https://helloblockstack.com/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
